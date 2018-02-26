@@ -1,0 +1,4 @@
+.ipynb.checkpoints
+.DS_Store
+pw.*
+*.json
